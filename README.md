@@ -6,8 +6,8 @@
 ## 👥 Author List  
 | Name                        | GitHub Profile |
 |----------------------------|--------------|
-| **Colby Bestick**           | [[GitHub](https://github.com/Cbeast15)] |
-| **Jaden Graham**            | [GitHub](PUT YOUR GITHUB HERE) |
+| **Colby Bestick**           | [[GitHub](https://github.com/Cbeast15)]|
+| **Jaden Graham**            | [[GitHub](https://github.com/jadenngraham)]|
 | **Braeden Thomas**          | [GitHub](PUT YOUR GITHUB HERE) |
 | **Bismark Adjei-Acheampong**| [GitHub](PUT YOUR GITHUB HERE) |
 
