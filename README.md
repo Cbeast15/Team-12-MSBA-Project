@@ -25,6 +25,8 @@ Ethical AI requirements and ensuring clear guidelines are met is one of the most
 
 ## References
 https://openai.com/index/dall-e/
+
 https://fashionandtextiles.springeropen.com/articles/10.1186/s40691-023-00360-w
+
 https://www.voguebusiness.com/gallery/gallery-generative-ai-in-fashion-and-beauty
 
