@@ -1,5 +1,5 @@
 # 🎨 Team 12 MSBA Project  
-## ✨ GenAI for Fashion  
+# ✨ GenAI for Fashion  
 
 ## 🖼️ Nice Visuals  
 
