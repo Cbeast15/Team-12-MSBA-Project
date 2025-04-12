@@ -8,7 +8,7 @@
 |----------------------------|--------------|
 | **Colby Bestick**           | [[GitHub](https://github.com/Cbeast15)]|
 | **Jaden Graham**            | [[GitHub](https://github.com/jadenngraham)]|
-| **Braeden Thomas**          | [GitHub](PUT YOUR GITHUB HERE) |
+| **Braeden Thomas**          | [GitHub](https://github.com/BraedenThomas)]|
 | **Bismark Adjei-Acheampong**| [[GitHub](https://github.com/Nanakofi-442)] |
 
 ## 🎯 Project Scope  
