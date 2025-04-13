@@ -1,11 +1,16 @@
 # 🎨 Team 12 MSBA Project: GenAI for Fashion  
 
-## 🖼️ Visuals from our Website
+## 🖼️ Visuals from our Website (With User Inputs)
 ![image (1970s style discoteque outfit)](https://github.com/user-attachments/assets/4f8329ba-4858-4ab0-abb7-c4d3abfec556)
+**1970s style discoteque outfit**
 ![image (a cozy oversized sweater with earth tones for autumn)](https://github.com/user-attachments/assets/d5d21e67-30a3-4089-98ef-7c954fd33639)
+**A cozy oversized sweater with Earth tones for Autumn**
 ![image (a sleek black pantsuit with gold accessories for a business meeting)](https://github.com/user-attachments/assets/07e1cec9-3c94-4a6c-a860-467e450e904c)
+**A sleek black pansuit with gold accessories for a business meeting**
 ![image (brown 1950s detective style suit)](https://github.com/user-attachments/assets/ed535a50-0099-4917-996b-2626648b1f87)
+**Brown 1950s detective style suit**
 ![image (red velvet gown with gold embroidery)](https://github.com/user-attachments/assets/82862311-9d4f-4889-9d36-5111fed91702)
+**Red Velvet gown with Gold embroidery**
 
 ## 👥 Author List  
 | Name                        | GitHub Profile |
