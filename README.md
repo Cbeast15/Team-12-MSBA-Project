@@ -1,6 +1,6 @@
 # 🎨 Team 12 MSBA Project: GenAI for Fashion  
 
-## 🖼️ Nice Visuals  
+## 🖼️ Visuals from our Website
 ![image (1970s style discoteque outfit)](https://github.com/user-attachments/assets/4f8329ba-4858-4ab0-abb7-c4d3abfec556)
 ![image (a cozy oversized sweater with earth tones for autumn)](https://github.com/user-attachments/assets/d5d21e67-30a3-4089-98ef-7c954fd33639)
 ![image (a sleek black pantsuit with gold accessories for a business meeting)](https://github.com/user-attachments/assets/07e1cec9-3c94-4a6c-a860-467e450e904c)
