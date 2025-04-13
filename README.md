@@ -20,6 +20,9 @@
 | **Braeden Thomas**          | [[GitHub](https://github.com/BraedenThomas)]|
 | **Bismark Adjei-Acheampong**| [[GitHub](https://github.com/Nanakofi-442)] |
 
+## Problem Statement
+Retailers need personalized product visuals to match diverse consumer preferences
+
 ## 🎯 Project Scope  
 When focusing on the ideas of Generative AI and the different aspects of creating images with the specific artifical intelligence, we decided to focus on the fashion aspect and how AI can help create viuals to appease the customer preferences and designs when shopping.  This personalized apporoach to fashion with AI as a tool to guide the shopper allows the consumer to visualize any aspect of their clothing and create whatever comes to their mind.  With the usage of Generative AI, the approach of shopping has changed, especially for the indecisive consumer.  The fashion industry will only improve and dynamically change the shopping process by including AI in their cart.  From different accessories, to color schemes, anything decision related to fashion can be helped by out focus of Generative Ai, creating images for the consumer to narrow down their search process.  
 
