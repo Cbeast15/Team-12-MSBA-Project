@@ -1,5 +1,4 @@
-# 🎨 Team 12 MSBA Project  
-# ✨ GenAI for Fashion  
+# 🎨 Team 12 MSBA Project: GenAI for Fashion  
 
 ## 🖼️ Nice Visuals  
 ![image (1970s style discoteque outfit)](https://github.com/user-attachments/assets/4f8329ba-4858-4ab0-abb7-c4d3abfec556)
