@@ -35,6 +35,9 @@ To improve this AI model, we could enhance the customization of the user by addi
 ## 🏆 Responsible AI Considerations  
 Ethical AI requirements and ensuring clear guidelines are met is one of the most important steps in AI model creation.  Violating any artifical intelligence guidelines not only puts the usage of AI in jeopardy but also the reputation of the creators in jeopardy.  Abiding by AI guidelines to use the model to only help make decision making when looking at different articles of clothing will help the process go smoothly and allow for the model to keep a very well reputation in the artifical intelligence world.  Another ethical consideration that we looked at was the idea of having images that are inclusive to whomever is to use the model.  A diverse and inclusive model can well represent any company that decides to use the model as many different people can make many choices in the style that best fits their personality.
 
+## Link to Kanban Board
+https://github.com/users/Cbeast15/projects/1
+
 ## References
 https://openai.com/index/dall-e/
 
